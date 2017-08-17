@@ -1,0 +1,21 @@
+{
+  "type": "object",
+  "properties": {
+    "inlineFlag": {
+      "type": "string"
+    },
+    "limit": {
+      "type": "number"
+    },
+    "prefix": {
+      "type": "string"
+    },
+    "mimetype": {
+      "type": "string"
+    },
+    "encoding": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false
+}
